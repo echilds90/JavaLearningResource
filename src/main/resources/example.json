@@ -1,0 +1,6 @@
+{
+  "something": 1,
+  "nothing": {
+    "something-else": "with-nothing"
+  }
+}
